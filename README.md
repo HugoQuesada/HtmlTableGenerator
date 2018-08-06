@@ -1,1 +1,1 @@
-Simple HtmlTableGenerator without style
+Simple HtmlTableGenerator without custom style
